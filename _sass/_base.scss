@@ -207,7 +207,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
 
     .address {
       p {
@@ -372,7 +372,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       i::before {
@@ -456,6 +456,7 @@ footer.sticky-bottom {
   }
 }
 
+////////////////////////////////////////////////////
 // CV
 
 .cv {
@@ -670,13 +671,17 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-
       .preview {
+        width: 225px;
+        height: 120px;
+        object-fit: contain;
+        // min-width: 80px;
+        // max-width: 500px;
       }
 
       .abbr {
         margin-bottom: 0.5rem;
-
+        
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
@@ -699,9 +704,15 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        font-size: 0.875rem;
+      }
+      
+      .periodical {
+        font-size: 0.875rem;
       }
 
       .author {
+        font-size: 0.875rem;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -809,6 +820,19 @@ footer.sticky-bottom {
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
     }
+
+    // .abbr,
+    // .title,
+    // .author,
+    // .links,
+    // .badges,
+    // .hidden,
+    // .periodical,
+    // div.abstract.hidden,
+    // div.award.hidden {
+    //   padding-left: 80px; /* Apply padding to all relevant elements */
+    // }
+
   }
 }
 
