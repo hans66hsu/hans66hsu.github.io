@@ -154,6 +154,9 @@
     {% if entry.location %}
       {% capture entrytype %}{{entrytype}}{{ ", " }}{{entry.location}}{% endcapture %}
     {% endif -%}
+    {% if entry.research_location %}
+      {% capture entrytype %}<em>{{entry.research_location}}</em>{% endcapture %}
+    {% endif -%}    
     {% if entry.additional_info %}
       {% capture entrytype %}{{entrytype}}{{entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
@@ -170,6 +173,13 @@
       {{ entry.note | strip }}
     </div>
 
+    <!-- description -->
+    {% if entry.description %}
+      <div class="description">
+        <p>{{ entry.description}}</p>
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
@@ -183,6 +193,7 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
+
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
@@ -221,6 +232,9 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+      {% if entry.github_star %}
+        <img src="{{ entry.github_star }}" class="badges"/>
+      {% endif %}      
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>

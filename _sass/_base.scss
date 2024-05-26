@@ -711,6 +711,14 @@ footer.sticky-bottom {
         font-size: 0.875rem;
       }
 
+      .description {
+        font-size: 0.875rem;
+        p {
+          color:  $grey-color;
+          margin-bottom: 0;
+        }
+      }
+
       .author {
         font-size: 0.875rem;
         a {
@@ -820,19 +828,6 @@ footer.sticky-bottom {
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
     }
-
-    // .abbr,
-    // .title,
-    // .author,
-    // .links,
-    // .badges,
-    // .hidden,
-    // .periodical,
-    // div.abstract.hidden,
-    // div.award.hidden {
-    //   padding-left: 80px; /* Apply padding to all relevant elements */
-    // }
-
   }
 }
 

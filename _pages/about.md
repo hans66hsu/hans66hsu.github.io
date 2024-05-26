@@ -14,8 +14,9 @@ profile:
   #   <p>Your City, State 12345</p>
 
 social: true # includes social icons at the bottom of the page
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+research_projects: true
 ---
 
 Hi, my name is Hans Hao-Hsun Hsu. I am actively seeking PhD opportunites starting from 2025 Fall. 
