@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 research_projects: true
 ---
 
-Hi, my name is Hans Hao-Hsun Hsu. I am actively seeking PhD opportunities starting in Fall 2025. My current research interests lie in geometric deep learning and its application to biology and chemistry. Feel free to reach out to me for any collaboration or research opportunities.
+Hi, my name is Hans Hao-Hsun Hsu. I am currently a research intern at Georgia Tech where I work with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0) on domain adaptation in graph machine learning. I am seeking PhD opportunities starting in Fall 2025. My current research interests lie in geometric deep learning and its application to biology and chemistry. Feel free to reach out to me for any collaboration or research opportunities.
 
 Previously, I was a machine learning researcher at [Celeris Therapeutics](https://www.linkedin.com/company/celeristx/), an Austria- and UK-based startup, working on [PROTACs](https://en.wikipedia.org/wiki/Proteolysis_targeting_chimera)-related drug discovery projects. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers), where I worked on uncertainty estimation in geometric deep learning. I also hold a B.S. degree from National Taiwan University.
 
