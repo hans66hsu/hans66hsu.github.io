@@ -207,8 +207,9 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 20%;
-
+    width: 25%;
+    // Add this for dummy space
+    margin-bottom: 4rem;
     .address {
       p {
         display: block;
