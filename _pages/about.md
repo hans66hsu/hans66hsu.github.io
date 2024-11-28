@@ -21,7 +21,7 @@ research_projects: true
 
 Hi, my name is Hans Hao-Hsun Hsu. I am currently a research intern at Georgia Tech where I work with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0) on domain adaptation in graph machine learning. **I am also looking for PhD positions starting in Fall 2025**. 
 
-My current research interests lie in (1) geometric deep learning and its application to scientific discovery/engineering (2) trustworthy AI on graphs (robust, uncertainty estimation, and interpretable). My long term goal is to integrate these two areas, devloping machines that are both reliable and applicable in scientific scenarios (usually characterized by data scarcity).
+My current research interests lie in (1) geometric deep learning and its application to scientific discovery/engineering (2) trustworthy AI on graphs (robust, uncertainty estimation, and interpretable). My long term goal is to integrate these two areas, developing machines that are both reliable and applicable in scientific scenarios (usually characterized by data scarcity).
 
 Previously, I was a machine learning researcher at [Celeris Therapeutics](https://www.linkedin.com/company/celeristx/), an Austria- and UK-based startup, working on [PROTACs](https://en.wikipedia.org/wiki/Proteolysis_targeting_chimera)-related drug discovery projects. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers), where I worked on uncertainty estimation in geometric deep learning. I also hold a B.S. degree from National Taiwan University.
 
