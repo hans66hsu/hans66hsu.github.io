@@ -19,11 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 research_projects: true
 ---
 
-Hi, my name is Hans Hao-Hsun Hsu. I am currently a research intern at Georgia Tech where I work with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0) on domain adaptation in graph machine learning. **I am also looking for PhD positions starting in Fall 2025**. 
+Hi, my name is Hans Hao-Hsun Hsu. I am Machine Learning PhD student at Georgia Tech working with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). 
 
-My current research interests lie in (1) geometric deep learning and its application to scientific discovery/engineering (2) trustworthy AI on graphs (reliability, robustness and explainability). My long term goal is to integrate these two areas, developing machines that are both reliable and applicable in scientific scenarios (usually characterized by data scarcity).
+My current research interests lie in (1) large language models as agents and multi-agent systems (2) geometric deep learning and its application to scientific discovery/engineering (3) trustworthy AI on graphs and agents (reliability, robustness and explainability). 
+<!-- My long term goal is to integrate these two areas, developing machines that are both reliable and applicable in scientific scenarios (usually characterized by data scarcity). -->
 
-Previously, I was a machine learning researcher at [Celeris Therapeutics](https://www.linkedin.com/company/celeristx/), an Austria- and UK-based startup, working on [PROTACs](https://en.wikipedia.org/wiki/Proteolysis_targeting_chimera)-related drug discovery projects. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers), where I worked on uncertainty estimation in geometric deep learning. I also hold a B.S. degree from National Taiwan University.
+Prior to Georgia Tech, I was a machine learning researcher at [Celeris Therapeutics](https://www.linkedin.com/company/celeristx/), an Austria- and UK-based startup, working on [PROTACs](https://en.wikipedia.org/wiki/Proteolysis_targeting_chimera)-related drug discovery projects. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers), where I worked on uncertainty estimation in geometric deep learning. I also hold a B.S. degree from National Taiwan University.
 
 Feel free to reach out to me for any collaboration or research opportunities.
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
