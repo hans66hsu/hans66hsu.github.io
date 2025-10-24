@@ -19,9 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 research_projects: true
 ---
 
-Hi, my name is Hans Hao-Hsun Hsu. I am Machine Learning PhD student at Georgia Tech working with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). 
-
-My current research interests lie in (1) large language models as agents and multi-agent systems (2) geometric deep learning and its application to scientific discovery/engineering (3) trustworthy AI on graphs and agents (reliability, robustness and explainability). 
+Hi, my name is Hans Hao-Hsun Hsu. I am Machine Learning PhD student at Georgia Tech working with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). My current research interests lie in generative models for scientific discovery/engineering. Previously, I also worked on trustworthy AI on graphs and agents (reliability, robustness and explainability).
 <!-- My long term goal is to integrate these two areas, developing machines that are both reliable and applicable in scientific scenarios (usually characterized by data scarcity). -->
 
 Prior to Georgia Tech, I was a machine learning researcher at [Celeris Therapeutics](https://www.linkedin.com/company/celeristx/), an Austria- and UK-based startup, working on [PROTACs](https://en.wikipedia.org/wiki/Proteolysis_targeting_chimera)-related drug discovery projects. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers), where I worked on uncertainty estimation in geometric deep learning. I also hold a B.S. degree from National Taiwan University.
