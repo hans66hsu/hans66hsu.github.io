@@ -1,5 +1,15 @@
+# USE the following:
+Use `--build` for the first time
+```bash
+$ docker compose up --build
+```
+Then
+```bash
+$ docker compose up
+```
 # Table of Contents
 
+- [USE the following:](#use-the-following)
 - [Table of Contents](#table-of-contents)
 - [Installing and Deploying](#installing-and-deploying)
   - [Recommended Approach](#recommended-approach)
