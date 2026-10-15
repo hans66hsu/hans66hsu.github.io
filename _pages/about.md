@@ -19,10 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 research_projects: true
 ---
 
-Hi, my name is Hans Hao-Hsun Hsu. I am Machine Learning PhD student at Georgia Tech working with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). My current research interests lie in generative models for scientific discovery/engineering. Previously, I also worked on trustworthy AI on graphs and agents (reliability, robustness and explainability).
+Hi, my name is Hans Hao-Hsun Hsu. I am a Machine Learning PhD student at Georgia Tech working with [Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). I am also an intern at Lawrence Berkeley National Laboratory (LBNL), where I work closely with [Benjamin N. Erichson](https://sites.google.com/icsi.berkeley.edu/erichson).  My current research interests lie in generative models for modeling complex dynamics and their applications to world models. 
 <!-- My long term goal is to integrate these two areas, developing machines that are both reliable and applicable in scientific scenarios (usually characterized by data scarcity). -->
 
-Prior to Georgia Tech, I was a machine learning researcher at [Celeris Therapeutics](https://www.linkedin.com/company/celeristx/), an Austria- and UK-based startup, working on [PROTACs](https://en.wikipedia.org/wiki/Proteolysis_targeting_chimera)-related drug discovery projects. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers), where I worked on uncertainty estimation in geometric deep learning. I also hold a B.S. degree from National Taiwan University.
+Previously, I also worked on trustworthy AI on graphs and agents (reliability, robustness and explainability).
+Prior to Georgia Tech, I was a machine learning researcher at Celeris Therapeutics, a UK-based startup, working on PROTAC-related drug discovery. I obtained my M.S. degree (with high distinction) from the Technical University of Munich advised by [Daniel Cremers](https://cvg.cit.tum.de/members/cremers). I also hold a B.S. degree from National Taiwan University.
 
 Feel free to reach out to me for any collaboration or research opportunities.
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
